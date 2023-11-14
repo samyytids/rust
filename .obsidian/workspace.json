@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "deb47f5b1d3b4ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a8bc351a0c0f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c723905e41204844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "structs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5abd2c2a308ff753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "if_let.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "006a2ffe2358cc7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0525d9a480a9b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2fb8f025c15ad38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45e20a3913f8dfb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ec70f90dd956f58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2cc5797496761721",
+    "type": "split",
+    "children": [
+      {
+        "id": "570234c7827a1ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1030b50667c0963a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "if_let.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c28940991ff4a567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "if_let.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91ff7feea1070d74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd4026e37984945a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "if_let.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5abd2c2a308ff753",
+  "lastOpenFiles": [
+    "Contents.md",
+    "if_let.md",
+    "matching.md",
+    "option.md",
+    "enums.md",
+    "structs.md",
+    "ifs.md",
+    "struct_example.md",
+    "debug_print.md",
+    "references.md",
+    "variables_and_mutability.md",
+    "trats.md",
+    "scalars_compounds.md",
+    "ownership.md",
+    "string.md",
+    "slices.md",
+    "stack_and_heap.md",
+    "loops.md",
+    "functions.md",
+    "guessing_game.md",
+    "datatypes.md",
+    "cargo.md",
+    "cargo.toml.md",
+    "install_and_update.md",
+    "hello_world.md",
+    "create_a_project.md"
+  ]
+}
