@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "traits.md",
+                "file": "cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a8de0faa78845fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IO_project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traits.md",
+                "file": "IO_project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "traits.md",
+                "file": "IO_project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traits.md"
+                "file": "IO_project.md"
               }
             }
           }
@@ -147,33 +160,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e260edec070c212",
+  "active": "0a8de0faa78845fa",
   "lastOpenFiles": [
-    "generic.md",
-    "traits.md",
+    "cargo.md",
+    "IO_project.md",
     "Contents.md",
+    "test_functions.md",
     "result.md",
+    "phat_declaration.md",
+    "structs.md",
+    "struct_example.md",
+    "lifetimes.md",
+    "string.md",
+    "traits.md",
+    "generic.md",
     "expect.md",
     "unwrap.md",
     "debug_print.md",
     "panic.md",
     "hash_map.md",
-    "string.md",
     "vectors.md",
-    "structs.md",
     "use.md",
     "enums.md",
     "modules.md",
-    "cargo.md",
     "if_let.md",
     "matching.md",
     "option.md",
     "ifs.md",
-    "struct_example.md",
-    "references.md",
-    "variables_and_mutability.md",
-    "trats.md",
-    "scalars_compounds.md",
-    "ownership.md"
+    "references.md"
   ]
 }

@@ -12,12 +12,16 @@
 10. [Debug format](debug_print.md)
 11. [Pattern matching](matching.md)
 12. [If let](if_let.md)
+13. [Lifetimes](lifetimes.md)
 
 ### Error handling
 1. [Panic](panic.md) 
 2. [Result](result.md)
 3. [Unwrap](unwrap.md)
 4. [Expect](expect.md)
+
+### Testing
+1. [Test functions](test_functions.md)
 ### Project structure
 1. [Modules](modules.md)
 2. [Use](use.md)
@@ -43,4 +47,6 @@
 ### Examples
 1. [Guessing game example](guessing_game.md)
 2. [Struct example](struct_example.md)
+3. [Generic, trait bound and lifetimed function example](phat_declaration.md)
+4. [I/O Project: CLI](IO_project.md)
 

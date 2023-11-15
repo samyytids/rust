@@ -100,6 +100,20 @@ fn main() {
 }
 ```
 
+#### .as_str()
+```rust
+fn main() {
+	let string = String::from("Hello world");
+	// This converts the String value into a slice. I am not sure if this is 
+	// beneficial compared to &string or if it just gives a more readable 
+	// implementation of this same fucntionality.
+	function_that_takes_str(string.as_str());
+}
+
+fn function_that_takes_str(s: &str) {
+	// foo
+}
+```
 ### Ownership
 We have used string literals in lots of places. Think of the hard coded strings in [guessing_game](guessing_game.md), these are great when you know exactly what string you are going to need. But, they are immutable and as such are not suitable for all scenarios. 
 
