@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a8bc351a0c0f0b",
+        "id": "820626a5b8d4484a",
         "type": "tabs",
         "children": [
           {
-            "id": "c723905e41204844",
+            "id": "8e260edec070c212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5abd2c2a308ff753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "if_let.md",
+                "file": "traits.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "if_let.md",
+                "file": "traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "if_let.md",
+                "file": "traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "if_let.md"
+                "file": "traits.md"
               }
             }
           }
@@ -160,33 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5abd2c2a308ff753",
+  "active": "8e260edec070c212",
   "lastOpenFiles": [
+    "generic.md",
+    "traits.md",
     "Contents.md",
+    "result.md",
+    "expect.md",
+    "unwrap.md",
+    "debug_print.md",
+    "panic.md",
+    "hash_map.md",
+    "string.md",
+    "vectors.md",
+    "structs.md",
+    "use.md",
+    "enums.md",
+    "modules.md",
+    "cargo.md",
     "if_let.md",
     "matching.md",
     "option.md",
-    "enums.md",
-    "structs.md",
     "ifs.md",
     "struct_example.md",
-    "debug_print.md",
     "references.md",
     "variables_and_mutability.md",
     "trats.md",
     "scalars_compounds.md",
-    "ownership.md",
-    "string.md",
-    "slices.md",
-    "stack_and_heap.md",
-    "loops.md",
-    "functions.md",
-    "guessing_game.md",
-    "datatypes.md",
-    "cargo.md",
-    "cargo.toml.md",
-    "install_and_update.md",
-    "hello_world.md",
-    "create_a_project.md"
+    "ownership.md"
   ]
 }

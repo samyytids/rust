@@ -1,5 +1,5 @@
 
-#### Essentials
+### Essentials
 1. [Installation and updating](install_and_update.md)
 2. [Cargo functionality](cargo.md)
 3. [Variables and mutability](variables_and_mutability.md)
@@ -12,20 +12,35 @@
 10. [Debug format](debug_print.md)
 11. [Pattern matching](matching.md)
 12. [If let](if_let.md)
+
+### Error handling
+1. [Panic](panic.md) 
+2. [Result](result.md)
+3. [Unwrap](unwrap.md)
+4. [Expect](expect.md)
+### Project structure
+1. [Modules](modules.md)
+2. [Use](use.md)
+
 ### Data structures
 1. [Structs](structs.md)
 2. [Enums](enums.md)
 
 ###  Datatypes
 1. [Scalars and compounds](scalars_compounds.md)
-2. [Strings](string.md)
-3. [Slices](slices.md)
-
+2. [Slices](slices.md)
+3. [Generics](generic.md)
+4. [Traits](traits.md)
+5. [Lifetimes](lifetime.md)
 ### Std
+#### Collections
+1. [Vectors](vectors.md)
+2. [Strings](string.md)
+3. [Hash maps](hash_map.md) 
 #### enums
 1. [Option](option.md)
 
-#### Examples
+### Examples
 1. [Guessing game example](guessing_game.md)
 2. [Struct example](struct_example.md)
 
