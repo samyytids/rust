@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IO_project.md",
+                "file": "Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cc5797496761721",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IO_project.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IO_project.md",
+                "file": "Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IO_project.md"
+                "file": "Contents.md"
               }
             }
           }
@@ -162,9 +161,11 @@
   },
   "active": "0a8de0faa78845fa",
   "lastOpenFiles": [
-    "cargo.md",
-    "IO_project.md",
+    "closures.md",
     "Contents.md",
+    "IO_project.md",
+    "debug_print.md",
+    "cargo.md",
     "test_functions.md",
     "result.md",
     "phat_declaration.md",
@@ -176,7 +177,6 @@
     "generic.md",
     "expect.md",
     "unwrap.md",
-    "debug_print.md",
     "panic.md",
     "hash_map.md",
     "vectors.md",
@@ -186,7 +186,6 @@
     "if_let.md",
     "matching.md",
     "option.md",
-    "ifs.md",
-    "references.md"
+    "ifs.md"
   ]
 }

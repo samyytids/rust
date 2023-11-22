@@ -13,6 +13,8 @@
 11. [Pattern matching](matching.md)
 12. [If let](if_let.md)
 13. [Lifetimes](lifetimes.md)
+14. [Closures](closures.md)
+15. [Iterators](iterators.md)
 
 ### Error handling
 1. [Panic](panic.md) 
@@ -22,6 +24,7 @@
 
 ### Testing
 1. [Test functions](test_functions.md)
+
 ### Project structure
 1. [Modules](modules.md)
 2. [Use](use.md)
