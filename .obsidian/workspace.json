@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents.md",
+                "file": "box.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents.md",
+                "file": "box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents.md",
+                "file": "box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents.md"
+                "file": "box.md"
               }
             }
           }
@@ -161,11 +161,15 @@
   },
   "active": "0a8de0faa78845fa",
   "lastOpenFiles": [
-    "closures.md",
     "Contents.md",
+    "closures.md",
+    "deref.md",
+    "box.md",
+    "stack_and_heap.md",
+    "cargo.md",
+    "iterators.md",
     "IO_project.md",
     "debug_print.md",
-    "cargo.md",
     "test_functions.md",
     "result.md",
     "phat_declaration.md",
@@ -182,10 +186,6 @@
     "vectors.md",
     "use.md",
     "enums.md",
-    "modules.md",
-    "if_let.md",
-    "matching.md",
-    "option.md",
-    "ifs.md"
+    "modules.md"
   ]
 }
