@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refcell_smart_pointer.md",
+                "file": "cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a8de0faa78845fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "box.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "refcell_smart_pointer.md",
+                "file": "box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "refcell_smart_pointer.md",
+                "file": "box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refcell_smart_pointer.md"
+                "file": "box.md"
               }
             }
           }
@@ -149,14 +161,13 @@
   },
   "active": "e4919cd360472531",
   "lastOpenFiles": [
-    "rc_smart_pointer.md",
-    "refcell_smart_pointer.md",
     "Contents.md",
-    "mem_drop.md",
-    "drop.md",
-    "deref.md",
-    "cargo.md",
     "closures.md",
+    "deref.md",
+    "box.md",
+    "stack_and_heap.md",
+    "cargo.md",
+    "iterators.md",
     "IO_project.md",
     "debug_print.md",
     "test_functions.md",
@@ -174,6 +185,7 @@
     "hash_map.md",
     "vectors.md",
     "use.md",
-    "enums.md"
+    "enums.md",
+    "modules.md"
   ]
 }
