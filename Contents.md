@@ -39,6 +39,11 @@
 3. [Generics](generic.md)
 4. [Traits](traits.md)
 5. [Lifetimes](lifetime.md)
+
+### Smart Pointers
+1. [The Deref Trait](deref.md)
+2. [Box](box.md)
+
 ### Std
 #### Collections
 1. [Vectors](vectors.md)

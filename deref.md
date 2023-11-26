@@ -1,0 +1,1 @@
+In order to be a smart pointer you must implement the Deref trait. This is the trait that dictates the behaviour used when the * operator is called. 
