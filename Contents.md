@@ -16,6 +16,9 @@
 14. [Closures](closures.md)
 15. [Iterators](iterators.md)
 
+### Smart pointers
+1. [RC](rc_smart_pointer.md)
+
 ### Error handling
 1. [Panic](panic.md) 
 2. [Result](result.md)
@@ -44,8 +47,15 @@
 1. [Vectors](vectors.md)
 2. [Strings](string.md)
 3. [Hash maps](hash_map.md) 
+
+#### Mem
+1. [Drop](mem_drop.md)
 #### enums
 1. [Option](option.md)
+
+### Traits
+1. [Deref](deref.md)
+2. [Drop](drop.md)
 
 ### Examples
 1. [Guessing game example](guessing_game.md)
