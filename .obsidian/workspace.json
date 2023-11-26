@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "820626a5b8d4484a",
+        "id": "5914ab6dd343171e",
         "type": "tabs",
         "children": [
           {
-            "id": "8e260edec070c212",
+            "id": "e4919cd360472531",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cc5797496761721",
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a8de0faa78845fa",
+  "active": "e4919cd360472531",
   "lastOpenFiles": [
     "Contents.md",
     "closures.md",
