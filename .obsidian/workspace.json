@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5914ab6dd343171e",
+        "id": "c02539fec6b75051",
         "type": "tabs",
         "children": [
           {
-            "id": "e4919cd360472531",
+            "id": "a3698c0163cae7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cargo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a8de0faa78845fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "box.md",
+                "file": "graceful_server.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\" bound\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "box.md",
+                "file": "graceful_server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "box.md",
+                "file": "graceful_server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "box.md"
+                "file": "graceful_server.md"
               }
             }
           }
@@ -159,33 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4919cd360472531",
+  "active": "a3698c0163cae7c9",
   "lastOpenFiles": [
     "Contents.md",
-    "closures.md",
-    "deref.md",
-    "box.md",
-    "stack_and_heap.md",
+    "graceful_server.md",
+    "multi_threaded_webserver.md",
+    "single_threaded_webserver_example.md",
     "cargo.md",
+    "macros.md",
+    "advanced_functions_and_closures.md",
+    "advanced_types.md",
+    "advanced_traits.md",
+    "unsafe.md",
+    "patterns.md",
+    "deref.md",
+    "drop.md",
+    "oop_example.md",
+    "is_rust_oop.md",
+    "lifetime.md",
+    "trait_objects.md",
+    "generic.md",
+    "box.md",
+    "traits.md",
+    "closures.md",
+    "stack_and_heap.md",
     "iterators.md",
     "IO_project.md",
     "debug_print.md",
-    "test_functions.md",
-    "result.md",
-    "phat_declaration.md",
-    "structs.md",
-    "struct_example.md",
-    "lifetimes.md",
-    "string.md",
-    "traits.md",
-    "generic.md",
-    "expect.md",
-    "unwrap.md",
-    "panic.md",
-    "hash_map.md",
-    "vectors.md",
-    "use.md",
-    "enums.md",
-    "modules.md"
+    "test_functions.md"
   ]
 }

@@ -17,7 +17,8 @@
 15. [Iterators](iterators.md)
 
 ### Smart pointers
-1. [RC](rc_smart_pointer.md)
+1. [Box](box.md)
+2. [RC](rc_smart_pointer.md)
 
 ### Error handling
 1. [Panic](panic.md) 
@@ -41,11 +42,6 @@
 2. [Slices](slices.md)
 3. [Generics](generic.md)
 4. [Traits](traits.md)
-5. [Lifetimes](lifetime.md)
-
-### Smart Pointers
-1. [The Deref Trait](deref.md)
-2. [Box](box.md)
 
 ### Std
 #### Collections
@@ -61,10 +57,29 @@
 ### Traits
 1. [Deref](deref.md)
 2. [Drop](drop.md)
+3. [Trait objects](trait_objects.md)
+
+### Patterns
+1. [Types of patterns](patterns.md)
+
+### Advanced features
+1. [Unsafe rust](unsafe.md)
+2. [Advanced traits](advanced_traits.md)
+3. [Advanced types](advanced_types.md)
+4. [Advanced functions and closures](advanced_functions_and_closures.md)
+5. [Macros](macros.md)
+
+### OOP
+1. [Is rust object orientated?](is_rust_oop.md)
 
 ### Examples
 1. [Guessing game example](guessing_game.md)
 2. [Struct example](struct_example.md)
 3. [Generic, trait bound and lifetimed function example](phat_declaration.md)
 4. [I/O Project: CLI](IO_project.md)
+5. [Implementing an OOP design pattern](oop_example.md)
+6. [Single threaded webserver](single_threaded_webserver_example.md)
+7. [Multi threaded webserver](multi_threaded_webserver.md)
+8. [Adding graceful shutdowns to the server](graceful_server.md)
+
 
